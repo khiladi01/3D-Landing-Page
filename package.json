@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/repository-name",
+"homepage": "https://khiladi01.github.io/3D-Landing-Page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
